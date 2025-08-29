@@ -1,5 +1,4 @@
-// Repayment.jsx
-// Hii ni page ya Loan Repayment
+
 function Repayment() {
   return (
     <div className="repayment-box">

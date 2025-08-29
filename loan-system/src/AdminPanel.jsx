@@ -1,5 +1,4 @@
-// AdminPanel.jsx
-// Hii ni page ya Admin Panel
+
 function AdminPanel() {
   return (
     <div className="admin-box">

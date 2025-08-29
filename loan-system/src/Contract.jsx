@@ -1,5 +1,4 @@
-// Contract.jsx
-// Hii ni page ya Loan Contract
+
 function Contract() {
   return (
     <div className="contract-box">

@@ -1,5 +1,4 @@
-// Dashboard.jsx
-// Hii ni page ya Borrower Dashboard
+
 function Dashboard() {
   return (
     <div className="dashboard-box">
